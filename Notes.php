@@ -79,7 +79,7 @@ ex:
 5, Creating controller file  in Laravel Application (apps/http/controllers)
 
     php artisan make:controller controllername                 ------   Command is used to create controller file.
-    php artisan make:controller controllername --resource      ------   Command is used to create controller file with default Curd method.
+    php artisan make:controller controllername --resource      ------   Command is used to create controller file with default Curd method(view, add, delete and Update).
 
 
 
