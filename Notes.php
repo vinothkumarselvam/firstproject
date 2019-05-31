@@ -27,7 +27,7 @@ app/http/controller file availabel
 
 Model       : (app/)
 Views       : (resource/views)
-Controllers : (app/http/controller)
+Controllers : (app/http/controller).
 
 
 # blade
